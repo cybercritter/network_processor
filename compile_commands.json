@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/mreid/repos/network_processor/out/build/gcc",
+  "command": "/usr/bin/gcc  -I/home/mreid/repos/network_processor/include -g -std=c11 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles/np.dir/src/packet.c.o -c /home/mreid/repos/network_processor/src/packet.c",
+  "file": "/home/mreid/repos/network_processor/src/packet.c",
+  "output": "CMakeFiles/np.dir/src/packet.c.o"
+},
+{
+  "directory": "/home/mreid/repos/network_processor/out/build/gcc",
+  "command": "/usr/bin/gcc  -I/home/mreid/repos/network_processor/include -g -std=c11 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles/network_processor.dir/src/main.c.o -c /home/mreid/repos/network_processor/src/main.c",
+  "file": "/home/mreid/repos/network_processor/src/main.c",
+  "output": "CMakeFiles/network_processor.dir/src/main.c.o"
+},
+{
+  "directory": "/home/mreid/repos/network_processor/out/build/gcc/tests",
+  "command": "/usr/bin/gcc  -I/home/mreid/repos/network_processor/include -g -std=c11 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles/np_tests.dir/test_packet.c.o -c /home/mreid/repos/network_processor/tests/test_packet.c",
+  "file": "/home/mreid/repos/network_processor/tests/test_packet.c",
+  "output": "tests/CMakeFiles/np_tests.dir/test_packet.c.o"
+}
+]
